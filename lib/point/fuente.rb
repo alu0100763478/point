@@ -11,6 +11,8 @@
 # Copyright:: Cretive Commons
 # License::   Distributes under the same terms as Ruby
 
+
+
 module Point
 
   # Esta clase permite representar un punto en el espacio 
